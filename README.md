@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mashdali8
+- 👋 Hi, I’m @AliAhmadiBazardeh
 - 👀 I’m interested in software programming
 - 🌱 I’m currently learning ML
 - 📫 ali.ahmadi.b.1997@gmail.com
