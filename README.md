@@ -47,11 +47,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliahmadibazardeh&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliahmadibazardeh&show_icons=true&theme=radical&cache_seconds=86400&token=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" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliahmadibazardeh&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliahmadibazardeh&theme=radical&cache_seconds=86400&token=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" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmadibazardeh&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmadibazardeh&layout=compact&theme=radical&cache_seconds=86400&token=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" alt="Top Languages" />
 </p>
 
 ---
