@@ -2,7 +2,7 @@
 
 **Senior Software Developer** with **7+ years of experience** in building scalable web applications, enterprise systems, and data-driven solutions.
 
-📍 [Tehran] · 📧 [ali.ahmadi.b.1997@gmail.com] · 🔗 [Your LinkedIn](https://www.linkedin.com/in/ali-ahmadi-4b7309227)
+📍 [Tehran] · 📧 [ali.ahmadi.b.1997@gmail.com] · 🔗 [LinkedIn](https://www.linkedin.com/in/ali-ahmadi-4b7309227)
 
 ---
 
@@ -11,7 +11,6 @@
 - 🔭 I’m currently working on **tafsirjoo.ir**
 - 🌱 I’m constantly learning and improving my skills in **Java, React Technologies**
 - 💬 Ask me about **ASP.NET, Django, REST APIs, SQL Server, and ERP systems**
-- ⚡ Fun fact: **[something interesting about you]**
 
 ---
 
@@ -48,11 +47,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliahmadibazardeh&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliahmadibazardeh&theme=radical" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmadibazardeh&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
