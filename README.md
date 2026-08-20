@@ -46,9 +46,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=aliahmadibazardeh&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <!-- (موقتاً استریک را غیرفعال کنید چون ممکن است خطا بدهد) -->
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aliahmadibazardeh&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
