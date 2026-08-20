@@ -60,17 +60,9 @@
 
 Here are a few projects I'm proud of:
 
-### 📌 [Project Name 1](https://github.com/yourusername/project1)
-**Description:** Short description of the project, its purpose, and technologies used.  
-**Tech:** `.NET Core`, `SQL Server`, `React`
-
-### 📌 [Project Name 2](https://github.com/yourusername/project2)
-**Description:** Short description of the project, its purpose, and technologies used.  
-**Tech:** `Python`, `Django`, `PostgreSQL`
-
-### 📌 [Project Name 3](https://github.com/yourusername/project3)
-**Description:** Short description of the project, its purpose, and technologies used.  
-**Tech:** `ASP.NET`, `Entity Framework`, `Power BI`
+### 📌 [Project Name 1](https://github.com/aliahmadibazardeh/quran_insight)
+**Description:** Easy search for Quran interpretation, its purpose, and technologies used.  
+**Tech:** `Django`, `Postgresql`, `Redis`
 
 ---
 
