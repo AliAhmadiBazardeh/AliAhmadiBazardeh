@@ -2,7 +2,7 @@
 
 **Senior Software Developer** with **7+ years of experience** in building scalable web applications, enterprise systems, and data-driven solutions.
 
-📍 [Tehran] · 📧 [ali.ahmadi.b.1997@gmail.com] · 🔗 [LinkedIn](https://www.linkedin.com/in/ali-ahmadi-4b7309227)
+📍 Tehran · 📧 ali.ahmadi.b.1997@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/ali-ahmadi-4b7309227)
 
 ---
 
