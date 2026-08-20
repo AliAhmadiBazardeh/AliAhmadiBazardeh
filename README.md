@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **tafsirjoo.ir**
-- 🌱 I’m constantly learning and improving my skills in **Java, React Technologies**
+- 🌱 I’m constantly learning and improving my skills in **Java,Neo4j and React Technologies**
 - 💬 Ask me about **ASP.NET, Django, REST APIs, and Clean Architecture**
 
 ---
