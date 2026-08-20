@@ -59,7 +59,7 @@
 
 Here are a few projects I'm proud of:
 
-### 📌 [Quran Insight](https://github.com/aliahmadibazardeh/quran_insight)
+### 📌 [Quran Insight](https://github.com/AliAhmadiBazardeh/quran-insight)
 **Description:** Easy search for Quran interpretation.  
 **Tech:** `Django`, `Postgresql`, `Redis`
 
