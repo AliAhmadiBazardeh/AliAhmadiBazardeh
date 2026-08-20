@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **tafsirjoo.ir**
 - 🌱 I’m constantly learning and improving my skills in **Java, React Technologies**
-- 💬 Ask me about **ASP.NET, Django, REST APIs, SQL Server, and ERP systems**
+- 💬 Ask me about **ASP.NET, Django, REST APIs, and Clean Architecture**
 
 ---
 
@@ -47,11 +47,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliahmadibazardeh&show_icons=true&theme=radical&cache_seconds=86400&token=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" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=aliahmadibazardeh&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliahmadibazardeh&theme=radical&cache_seconds=86400&token=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" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmadibazardeh&layout=compact&theme=radical&cache_seconds=86400&token=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" alt="Top Languages" />
+  <!-- (موقتاً استریک را غیرفعال کنید چون ممکن است خطا بدهد) -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aliahmadibazardeh&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
