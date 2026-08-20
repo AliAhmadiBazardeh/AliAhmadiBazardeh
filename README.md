@@ -1,15 +1,15 @@
-# 👋 Hi, I'm [@AliAhmadiBazardeh]
+# 👋 Hi, I'm Ali
 
 **Senior Software Developer** with **7+ years of experience** in building scalable web applications, enterprise systems, and data-driven solutions.
 
-📍 [Tehran] · 📧 [ali.ahmadi.b.1997@gmail.com] · 🔗 [Your LinkedIn](https://linkedin.com/in/yourprofile)
+📍 [Tehran] · 📧 [ali.ahmadi.b.1997@gmail.com] · 🔗 [Your LinkedIn](https://www.linkedin.com/in/ali-ahmadi-4b7309227)
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **[current project or focus]**
-- 🌱 I’m constantly learning and improving my skills in **.NET, Python, and Cloud Technologies**
+- 🔭 I’m currently working on **tafsirjoo.ir**
+- 🌱 I’m constantly learning and improving my skills in **Java, React Technologies**
 - 💬 Ask me about **ASP.NET, Django, REST APIs, SQL Server, and ERP systems**
 - ⚡ Fun fact: **[something interesting about you]**
 
